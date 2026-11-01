@@ -1,5 +1,5 @@
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jrlx/V2/badge)](https://scorecard.dev/viewer/?uri=github.com/jrlx/V2)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/PROJECT_ID/badge)](https://www.bestpractices.dev/projects/16164)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16164/badge)](https://www.bestpractices.dev/projects/16164)
 
 # Visualizer
 
