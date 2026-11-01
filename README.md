@@ -1,4 +1,4 @@
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jrlx/Visualizer/badge)](https://scorecard.dev/viewer/?uri=github.com/jrlx/Visualizer)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/jrlx/V2/badge)](https://scorecard.dev/viewer/?uri=github.com/jrlx/V2)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/PROJECT_ID/badge)](https://www.bestpractices.dev/projects/PROJECT_ID)
 
 # Visualizer
@@ -28,8 +28,8 @@ You need a C++17 compiler, CMake 3.29 or newer, and Git. On Linux you also need 
 
 ## Building
 
-    git clone https://github.com/jrlx/Visualizer.git
-    cd Visualizer
+    git clone https://github.com/jrlx/V2.git
+    cd V2
     cmake -B build
     cmake --build build
 
@@ -67,7 +67,7 @@ Every push and pull request is built and tested by GitHub Actions, and the code 
 
 ## Contributing
 
-Report bugs or suggest features by opening an issue at https://github.com/jrlx/Visualizer/issues. Pull requests are welcome. See CONTRIBUTING.md for requirements and the testing policy.
+Report bugs or suggest features by opening an issue at https://github.com/jrlx/V2/issues. Pull requests are welcome. See CONTRIBUTING.md for requirements and the testing policy.
 
 ## Security
 

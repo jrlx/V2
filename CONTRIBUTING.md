@@ -4,7 +4,7 @@ Thank you for your interest in contributing.
 
 ## Reporting Bugs and Requesting Features
 
-Open an issue at https://github.com/jrlx/Visualizer/issues. For bugs, include your operating system, the audio file format you used, and steps to reproduce the problem.
+Open an issue at https://github.com/jrlx/V2/issues. For bugs, include your operating system, the audio file format you used, and steps to reproduce the problem.
 
 Security vulnerabilities should be reported privately as described in SECURITY.md.
 
