@@ -6,6 +6,8 @@ Only the latest release and the main branch receive security fixes.
 
 ## Reporting a Vulnerability
 
+Report privately here: https://github.com/jrlx/V2/security/advisories/new
+
 Please do not report security vulnerabilities in public issues.
 
 Report them privately through GitHub's private vulnerability reporting:
